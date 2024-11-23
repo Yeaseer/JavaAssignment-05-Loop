@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05d02406-d890-4c0e-8620-4ce9abd4fe9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Loop Assingnment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryConverterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterPrinterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CurrencyConverterRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataSetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiamondDrawer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiamondDrawerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MimimumFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumFinderRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiplicationTableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfTwoCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowerOfTwoCalculatorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequenceAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SequenceAnalyzerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringAnalyzerRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pGEB9UUxZhwc4D4rntFZxbp5JQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinaryConverterRunner.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Java Loop Assingnment/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05d02406-d890-4c0e-8620-4ce9abd4fe9c" name="Changes" comment="" />
+      <created>1732383874469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732383874469</updated>
+    </task>
+    <servers />
+  </component>
+</project>
